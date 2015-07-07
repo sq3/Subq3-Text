@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"Git",
+		"Package Control",
+		"Python Auto-Complete",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Theme - Sodarized"
+	]
+}
